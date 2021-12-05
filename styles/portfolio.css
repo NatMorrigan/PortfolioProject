@@ -18,7 +18,7 @@ h1 {
 h2{
     font-size: 64px;
 }
-h4{font-size: 48px;
+h3{font-size: 48px;
 }
 p{
     font-size:16px;
@@ -135,13 +135,10 @@ footer .contact-box p{
     h2{
         font-size: 44px;
     }
-    h4{
+    h3{
         font-size: 24px;
     }
-    .hero {
-        padding: 80px 20px;
-    }
-    .project-description {
+        .project-description {
         padding: 0;
         text-align: center;
     }
